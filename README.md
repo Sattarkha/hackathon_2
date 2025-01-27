@@ -6,9 +6,7 @@ nextjs
 
 ![Image](https://github.com/user-attachments/assets/63f75164-5450-4e33-a00b-466046309941)
 
-# Day-2
-nextjs
-<!-- Uploading "1737138656139.jpg"... -->
+
 
 # Day-4
 nextjs
