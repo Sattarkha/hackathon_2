@@ -6,8 +6,11 @@ nextjs
 
 ![Image](https://github.com/user-attachments/assets/63f75164-5450-4e33-a00b-466046309941)
 
+# Day-2
+nextjs
 
 
+![1737138656139](https://github.com/user-attachments/assets/323a9c9a-3884-45ab-98dd-c0cba1bd92a3)
 # Day-4
 nextjs
 [Day 4.docx](https://github.com/user-attachments/files/18559669/Day.4.docx)
